@@ -1,0 +1,76 @@
+,Value
+balance_train_Number,168
+balance_train_PosNum,84
+balance_train_NegNum,84
+balance_train_AUC-PR,0.8818
+balance_train_Cutoff,0.5807
+balance_train_Acc,0.8929
+balance_train_MCC,0.7857
+balance_train_Sen,0.8929
+balance_train_Spe,0.8929
+balance_train_PPV,0.8929
+balance_train_NPV,0.8929
+balance_train_Youden Index,0.7857
+balance_train_AUC,0.9096
+balance_train_95% CIs,[0.8600-0.9591]
+balance_train_Std,0.0253
+train_Number,127
+train_PosNum,43
+train_NegNum,84
+train_AUC-PR,0.7875
+train_Cutoff,0.5993
+train_Acc,0.8819
+train_MCC,0.7417
+train_Sen,0.8605
+train_Spe,0.8929
+train_PPV,0.8043
+train_NPV,0.9259
+train_Youden Index,0.7533
+train_AUC,0.9037
+train_95% CIs,[0.8452-0.9621]
+train_Std,0.0298
+test_Number,55
+test_PosNum,19
+test_NegNum,36
+test_AUC-PR,0.5737
+test_Cutoff,1.0000
+test_Acc,0.5818
+test_MCC,0.1546
+test_Sen,0.5789
+test_Spe,0.5833
+test_PPV,0.4231
+test_NPV,0.7241
+test_Youden Index,0.1623
+test_AUC,0.5811
+test_95% CIs,[0.4409-0.7214]
+test_Std,0.0716
+cv_train_Number,672
+cv_train_PosNum,336
+cv_train_NegNum,336
+cv_train_AUC-PR,0.9023
+cv_train_Cutoff,0.5636
+cv_train_Acc,0.8497
+cv_train_MCC,0.6994
+cv_train_Sen,0.8482
+cv_train_Spe,0.8512
+cv_train_PPV,0.8507
+cv_train_NPV,0.8487
+cv_train_Youden Index,0.6994
+cv_train_AUC,0.9086
+cv_train_95% CIs,[0.8863-0.9309]
+cv_train_Std,0.0114
+cv_val_Number,127
+cv_val_PosNum,43
+cv_val_NegNum,84
+cv_val_AUC-PR,0.4629
+cv_val_Cutoff,2.0000
+cv_val_Acc,0.6614
+cv_val_MCC,0.0000
+cv_val_Sen,0.0000
+cv_val_Spe,1.0000
+cv_val_PPV,0.0000
+cv_val_NPV,0.6614
+cv_val_Youden Index,0.0000
+cv_val_AUC,0.4712
+cv_val_95% CIs,[0.3793-0.5631]
+cv_val_Std,0.0469
